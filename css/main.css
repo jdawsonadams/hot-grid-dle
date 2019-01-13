@@ -32,4 +32,6 @@ p {
   background-color: #000;
   opacity: 0.5;
   color: #fff;
+  padding: 1rem;
+  border-radius: 8px;
 }
