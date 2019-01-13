@@ -29,4 +29,7 @@ body {
 
 p {
   max-width: 15em;
+  background-color: #000;
+  opacity: 0.5;
+  color: #fff;
 }
