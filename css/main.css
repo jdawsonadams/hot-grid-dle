@@ -37,3 +37,7 @@ p {
   position: relative;
   position: absolute;
 }
+
+figure {
+  margin: 0;
+}
